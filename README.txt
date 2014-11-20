@@ -13,3 +13,5 @@ To get started with GitHub, you must do the following:
 4.	Sync the repo through the GitHub app
 
 5.	YOU'RE SET AND READY TO WORK
+
+6. GLHF
